@@ -57,7 +57,7 @@ Google Colab / Jupyter Notebook
 
 
 
-🔍 Methodology
+## Methodology
 Steps followed in this analysis:
 
 
